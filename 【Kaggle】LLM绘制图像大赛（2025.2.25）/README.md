@@ -6,11 +6,10 @@
 
 **比赛任务： 构建和提交能够生成特定概念的****SVG****图像的Kaggle软件包**
 
-![](assets/20250904_170359_image.png)
+<img src="assets/20250904_172813_image.png" style="width:300px;" />
 
 ---
-
-![](assets/20250904_172022_image.png)
+<img src="assets/20250904_174246_5b2bcaaac91a0105f71ca56604b8dcb5.png" style="width:500px;" />
 
 欢迎大家了解我们深度之眼，希望能够给大家带去最实用的知识：
 
@@ -91,5 +90,4 @@ LLM在许多方面都展现出AGI的潜力，但它们生成图像渲染代码�
 
 说明：需要课程回放的同学可以扫码，凭点赞截图找小享免费领取哦！！！
 
-
-![](assets/20250904_172309_image.png)
+<img src="assets/20250904_172853_image.png" style="width:200px;" />
