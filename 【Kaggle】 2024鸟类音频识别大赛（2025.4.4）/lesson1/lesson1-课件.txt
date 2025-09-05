@@ -1,0 +1,4 @@
+
+基础代码：
+baseline在线训练(gpu，本地&云端)：https://www.kaggle.com/code/zijiangyang1116/birdclef-24-efficientnetb0-pytorch-train/notebook
+baseline在线预测(cpu, cpu 提取频谱图)：https://www.kaggle.com/code/markwijkhuizen/birdclef-2024-eda-preprocessed-dataset

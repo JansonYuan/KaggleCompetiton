@@ -1,0 +1,11 @@
+频谱图提取：
+https://librosa.org/doc/latest/generated/librosa.feature.melspectrogram.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.spectrogram.html
+https://docs.cupy.dev/en/v13.1.0/reference/generated/cupyx.scipy.signal.spectrogram.html
+
+预训练模型：
+https://pytorch.org/vision/stable/index.html
+https://huggingface.co/docs/timm/index
+
+imagenet训练过程：
+https://github.com/pytorch/examples/blob/main/imagenet/main.py
