@@ -1,5 +1,7 @@
 # 【Kaggle】**2024鸟类音频识别大赛**
 
+**说明：本项目中包含了部分方案解析、录播课件、baseline、以及推荐资料等，欢迎大家关注点赞+收藏！！！**
+
 比赛名称：**2024鸟类音频识别大赛**
 
 比赛链接：[**https://www.kaggle.com/competitions/birdclef-2024**](https://www.kaggle.com/competitions/birdclef-2024)

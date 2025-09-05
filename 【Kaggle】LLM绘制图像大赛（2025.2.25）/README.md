@@ -1,5 +1,7 @@
 # 【Kaggle】LLM绘制图像大赛
 
+**说明：本项目中包含了部分方案解析、录播课件、baseline、以及推荐资料等，欢迎大家关注点赞+收藏！！！**
+
 比赛名称：Kaggle-Drawing with **LLMs**
 
 比赛链接：**https://www.kaggle.com/competitions/drawing-with-llms**
