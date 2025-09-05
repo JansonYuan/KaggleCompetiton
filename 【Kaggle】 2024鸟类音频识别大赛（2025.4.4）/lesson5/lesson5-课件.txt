@@ -1,2 +1,0 @@
-https://pytorch.org/docs/stable/generated/torch.jit.optimize_for_inference.html
-https://www.kaggle.com/code/zulqarnainalipk/birdclef-2024-species-identification-from-audio
